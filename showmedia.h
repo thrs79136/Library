@@ -1,0 +1,27 @@
+#ifndef SHOWMEDIA_H
+#define SHOWMEDIA_H
+
+#include <QDialog>
+#include <QList>
+
+class Medium;
+class User;
+
+namespace Ui {
+class showMedia;
+}
+
+class showMedia : public QDialog
+{
+    Q_OBJECT
+
+public:
+    explicit showMedia(QWidget *parent = nullptr);
+    void printList(User *pU, QList<Medium*> mediumList);
+    ~showMedia();
+
+private:
+    Ui::showMedia *ui;
+};
+
+#endif // SHOWMEDIA_H
