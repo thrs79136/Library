@@ -1,4 +1,4 @@
-// Theresa Schüttig, 45600, s79136, 18/041/61
+// Theresa Schüttig, s79136, 18/041/61
 
 #ifndef CD_H
 #define CD_H
