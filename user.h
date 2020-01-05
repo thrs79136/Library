@@ -1,4 +1,4 @@
-// Theresa Schüttig, 45600, s79136, 18/041/61
+// Theresa Schüttig, s79136, 18/041/61
 
 #ifndef USER_H
 #define USER_H
