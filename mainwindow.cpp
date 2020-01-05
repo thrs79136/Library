@@ -1,4 +1,4 @@
-// Theresa Schüttig, 45600, s79136, 18/041/61
+// Theresa Schüttig, s79136, 18/041/61
 
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
